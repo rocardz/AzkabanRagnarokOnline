@@ -1492,7 +1492,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SL_STAR] = {
 		"SL_STAR",
-		SkillName = "Star Gladiator Spirit",
+		SkillName = "Jedi Spirit",
 		MaxLv = 5,
 		SpAmount = { 460, 360, 260, 160, 60 },
 		bSeperateLv = false,
@@ -1637,7 +1637,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SL_SOULLINKER] = {
 		"SL_SOULLINKER",
-		SkillName = "Soul Linker Spirit",
+		SkillName = "Sith pirit",
 		MaxLv = 5,
 		SpAmount = { 460, 360, 260, 160, 60 },
 		bSeperateLv = false,
