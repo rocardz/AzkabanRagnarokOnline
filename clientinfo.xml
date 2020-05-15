@@ -11,8 +11,6 @@
       		<langtype>1</langtype>
 		<registrationweb>http://azkaban.ro-game.net/?module=account&action=create</registrationweb>
 		<loading>
-
-		</loading>
 			<image>loading00.jpg</image>
 			<image>loading01.jpg</image>
 			<image>loading02.jpg</image>
@@ -24,6 +22,7 @@
 			<image>loading08.jpg</image>
 			<image>loading09.jpg</image>
 			<image>loading10.jpg</image>
+		</loading>
 			<aid>
 			<admin>2000001</admin>
 			<admin>2000000</admin>
